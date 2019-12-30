@@ -1,0 +1,45 @@
+{
+    "compilerOptions": {
+        "outDir": "bin",
+        "target": "es2016",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "declaration": true,
+        "sourceMap": true,
+        "stripInternal": true,
+        "experimentalDecorators": true,
+        "noFallthroughCasesInSwitch": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true
+    },
+    "files": [
+        "common.ts",
+        "config/index.ts",
+        "config/vars.ts",
+        "creditCard.ts",
+        "document.ts",
+        "getCommon.ts",
+        "getCreditCard.ts",
+        "getDocument.ts",
+        "getGroup.ts",
+        "getIdentity.ts",
+        "getLogin.ts",
+        "getPassword.ts",
+        "getSecureNote.ts",
+        "getSoftwareLicense.ts",
+        "group.ts",
+        "identity.ts",
+        "index.ts",
+        "login.ts",
+        "password.ts",
+        "provider.ts",
+        "secureNote.ts",
+        "softwareLicense.ts",
+        "types/index.ts",
+        "types/input.ts",
+        "types/output.ts",
+        "utilities.ts",
+        "vault.ts"
+    ]
+}
+
